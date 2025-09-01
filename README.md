@@ -47,7 +47,7 @@ http://127.0.0.1:8000/test-transaction/  → Proves signals run in the same tran
 
 ## Author
 
-👤Gayathri S
+👤 Gayathri S.
 
 🔗 [GitHub](https://github.com/Gayathrisathiyarajan/accuknox_assignment)
 
